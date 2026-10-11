@@ -7,7 +7,19 @@ Ce projet consiste à explorer et analyser l'évolution des prénoms attribués 
 L'objectif est de mettre en pratique les différentes étapes d'un projet de Data Analysis : **nettoyage des données, transformation, analyse statistique et visualisation**.
 
 L'étude repose sur un jeu de données de plus de **724 000 observations**, traité à l'aide de Python, Pandas et Matplotlib.
+Source des données
 
+Les données utilisées dans ce projet proviennent de l'INSEE (Institut national de la statistique et des études économiques).
+
+Source officielle : INSEE — Fichier des prénoms
+
+Jeu de données : Fichier national des prénoms
+
+Période : 1900–2025
+
+Format : CSV
+
+Volume : plus de 724 000 observations
 ## Technologies utilisées
 
 - **Python** : développement des fonctions d'analyse.
